@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+  <!-- App -->
+  <string key="app.name">SoundFlow</string>
+  <string key="app.quit">Quit SoundFlow</string>
+
+  <!-- General -->
+  <string key="general.settings">Settings</string>
+  <string key="general.about">About</string>
+  <string key="general.ok">OK</string>
+  <string key="general.cancel">Cancel</string>
+
+  <!-- Updates -->
+  <string key="update.check">Check for Updates</string>
+  <string key="update.checking">Checking...</string>
+  <string key="update.available">Update Available</string>
+  <string key="update.upToDate">You're up to date!</string>
+  <string key="update.download">Download</string>
+  <string key="update.install">Install Now</string>
+  <string key="update.version">Version %1</string>
+</strings>
