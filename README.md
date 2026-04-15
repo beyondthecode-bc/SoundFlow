@@ -46,6 +46,16 @@
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="images/screenshot-1.png" alt="SoundFlow — per-app volume control" width="440">
+  &nbsp;&nbsp;
+  <img src="images/screenshot-2.png" alt="SoundFlow — app list" width="440">
+</p>
+
+---
+
 ## Download
 
 Download the latest version from [**Releases**](https://github.com/beyondthecode-bc/SoundFlow/releases/latest). Unzip, drag `SoundFlow.app` to your Applications folder, and launch.
