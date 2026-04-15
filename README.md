@@ -71,7 +71,12 @@ To grant access:
 
 ## Updates
 
-Open the **About** screen (the **?** button in the popover) to check your current version. When a new release is available, you'll find it on the [Releases](https://github.com/beyondthecode-bc/SoundFlow/releases/latest) page — download, unzip, and replace your existing copy.
+SoundFlow has a built-in update checker. Click the version number at the bottom-left of the menu bar popover to:
+- Automatically check GitHub for newer releases
+- Download the update directly
+- Install with one click (macOS will ask for your password)
+
+You can also browse releases manually on the [Releases page](https://github.com/beyondthecode-bc/SoundFlow/releases/latest).
 
 ---
 
