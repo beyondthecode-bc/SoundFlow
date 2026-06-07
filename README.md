@@ -32,6 +32,10 @@
 
 ---
 
+> [!NOTE]
+> **This repository is the SoundFlow community hub** — translations, issue tracking, and releases. SoundFlow is a free, closed-source macOS app; the source code is not published here. **[Download SoundFlow from Releases](https://github.com/beyondthecode-bc/SoundFlow/releases/latest).**
+
+
 ## Features
 
 - **Per-app volume control** — Adjust volume independently for Chrome, Spotify, Zoom, and any other audio-producing app
